@@ -1,4 +1,4 @@
-🎬 시연 GIF
+# 🎬 시연 GIF
 <table>
   <tr>
   <td align="center" width="250" style="background:#f8fafc; border-radius:12px; box-shadow:0 2px 8px #e2e8f0;">
