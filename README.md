@@ -7,7 +7,7 @@
   <em style="color:#64748b;">간편한 인증 흐름</em>
   </td> 
   
-  <td width="30"></td> 
+  <td width="20"></td> 
   
   <td align="center" width="250" style="background:#f8fafc; border-radius:12px; box-shadow:0 2px 8px #e2e8f0;">
   <strong style="font-size:1.1em;">📝 회원가입</strong><br/>
@@ -15,7 +15,7 @@
   <em style="color:#64748b;">신규 사용자 정보 입력</em>
   </td>
   
-  <td width="30"></td>
+  <td width="20"></td>
   
   <td align="center" width="250" style="background:#f8fafc; border-radius:12px; box-shadow:0 2px 8px #e2e8f0;">
   <strong style="font-size:1.1em;">👤 회원 정보 수정 및 탈퇴</strong><br/>
