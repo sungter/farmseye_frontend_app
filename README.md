@@ -53,5 +53,5 @@
 
 | 🌡️온습도 제어 | ☁️ 공기질 제어 | 💡 조도 제어 |
 | --- | --- | --- | 
-| <img src="https://github.com/user-attachments/assets/90e8c9e3-1697-4fbe-9603-098e6db7fcca" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/9ea6aae7-a81b-4103-8f49-0029e628cb66" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/20140e68-5f36-4243-b771-e8d17bd166df" width="400" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/8e4bbeda-397c-4dc1-9a80-9adc79bbf78f" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/9ea6aae7-a81b-4103-8f49-0029e628cb66" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/20140e68-5f36-4243-b771-e8d17bd166df" width="400" style="border-radius:8px; margin:8px 0;"/> |
 
