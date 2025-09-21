@@ -54,16 +54,13 @@
 
 | 🌡️온습도 제어 | 🐔개체 등록 |
 | --- | --- |
-| <img src="https://github.com/user-attachments/assets/8e4bbeda-397c-4dc1-9a80-9adc79bbf78f" width="400" style="border-radius:8px; margin:8px 0;"/> |
-| <img src="https://github.com/user-attachments/assets/a44f8d7a-2c29-4fde-900e-c5914dcd319a" width="200" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/8e4bbeda-397c-4dc1-9a80-9adc79bbf78f" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/a44f8d7a-2c29-4fde-900e-c5914dcd319a" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
 | ☁️공기질 제어 | 📄개체 수정 |
 | --- | --- |
-| <img src="https://github.com/user-attachments/assets/9ea6aae7-a81b-4103-8f49-0029e628cb66" width="400" style="border-radius:8px; margin:8px 0;"/> |
-| <img src="https://github.com/user-attachments/assets/189f8c5c-8e61-4508-8c68-b371f013ebdd" width="200" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/9ea6aae7-a81b-4103-8f49-0029e628cb66" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/189f8c5c-8e61-4508-8c68-b371f013ebdd" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
 | 💡조도 제어 | 📈차트 확인 |
 | --- | --- |
-| <img src="https://github.com/user-attachments/assets/20140e68-5f36-4243-b771-e8d17bd166df" width="400" style="border-radius:8px; margin:8px 0;"/> |
-| <img src="https://github.com/user-attachments/assets/a95f380d-0c2c-4da5-a264-7a456d47c2f8" width="200" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/20140e68-5f36-4243-b771-e8d17bd166df" width="400" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/a95f380d-0c2c-4da5-a264-7a456d47c2f8" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
