@@ -1,3 +1,42 @@
+# 🔆스마트 축사 PROJECT
+
+### 🎯프로젝트 개요
+
+| **항목** | **내용** |
+| --- | --- |
+| **프로젝트 명** | **FarmsEye (팜즈아이)** |
+| **프로젝트 소개** | 스마트축사 IoT 기기 연동 및 가축 생애 프로세스 모니터링 구현 |
+| **개발 인원** | 총 3명 |
+| **담당 역할** | 공용 API 구현, UI 제작, 데이터 시각화 |
+| **개발 기간** | 총 57일 (2025.03.21 ~ 2025.05.16) |
+
+
+
+## 🖥️개발환경
+- IntelliJ
+- Postman
+- HeidiSQL
+- GitHub
+- VS Code
+
+
+## 🛠️SKILLS
+- JAVA
+- SPRING BOOT
+- Spring Security
+- MariaDB
+- React
+- JavaScript
+- Redux
+
+## 🎬 시연 GIF
+
+| 🔐 로그인 및 로그아웃 | 👤 회원 정보 수정 및 탈퇴 | 📝 회원가입 |
+| --- | --- | --- | 
+| <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
+</br>
+</br>
+
 # 🎬 시연 GIF
 <table>
   <tr>
