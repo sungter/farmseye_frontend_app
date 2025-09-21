@@ -20,6 +20,3 @@
   </td>
   </tr>
 </table>
-
-# 최종 PT 일부
-test
