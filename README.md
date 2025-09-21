@@ -42,7 +42,7 @@
 
 ## 🎬 시연 GIF
 
-| 🔐 로그인 및 로그아웃 |  회원 정보 수정 및 탈퇴 | 📝 회원가입 |
+| 🔐로그인 및 로그아웃 |  ⚙️회원 정보 수정 및 탈퇴 | 📝회원가입 |
 | --- | --- | --- | 
 | <img src="https://github.com/user-attachments/assets/90e8c9e3-1697-4fbe-9603-098e6db7fcca" width="200" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/45b5b404-7547-4564-a26e-9bfe9859d4dd" width="200" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/c2aa4b60-2613-4a95-98cf-81c893bd497f" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
@@ -50,19 +50,20 @@
 </br>
 
 
-https://github.com/user-attachments/assets/86747194-814f-4b35-a133-704af603e272
 
 
-| 🌡️온습도 제어 | 개체 등록 |
+| 🌡️온습도 제어 | 🐔개체 등록 |
 | --- | --- |
 | <img src="https://github.com/user-attachments/assets/8e4bbeda-397c-4dc1-9a80-9adc79bbf78f" width="400" style="border-radius:8px; margin:8px 0;"/> |
-| <img src="https://github.com/user-attachments/assets/86747194-814f-4b35-a133-704af603e272" width="200" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/a44f8d7a-2c29-4fde-900e-c5914dcd319a" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
-| ☁️ 공기질 제어 |
-| --- |
+| ☁️공기질 제어 | 📄개체 수정 |
+| --- | --- |
 | <img src="https://github.com/user-attachments/assets/9ea6aae7-a81b-4103-8f49-0029e628cb66" width="400" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/189f8c5c-8e61-4508-8c68-b371f013ebdd" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
-| 💡 조도 제어 |
-| --- |
+| 💡조도 제어 | 📈차트 확인 |
+| --- | --- |
 | <img src="https://github.com/user-attachments/assets/20140e68-5f36-4243-b771-e8d17bd166df" width="400" style="border-radius:8px; margin:8px 0;"/> |
+| <img src="https://github.com/user-attachments/assets/a95f380d-0c2c-4da5-a264-7a456d47c2f8" width="200" style="border-radius:8px; margin:8px 0;"/> |
 
