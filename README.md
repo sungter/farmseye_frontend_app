@@ -25,7 +25,7 @@
 - SPRING BOOT
 - Spring Security
 - MariaDB
-- React
+- React Native
 - JavaScript
 - Redux
 
