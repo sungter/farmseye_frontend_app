@@ -33,7 +33,7 @@
 
 | 🔐 로그인 및 로그아웃 | 👤 회원 정보 수정 및 탈퇴 | 📝 회원가입 |
 | --- | --- | --- | 
-| <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
+| <img src="https://github.com/user-attachments/assets/90e8c9e3-1697-4fbe-9603-098e6db7fcca" width="200" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/45b5b404-7547-4564-a26e-9bfe9859d4dd" width="200" style="border-radius:8px; margin:8px 0;"/> | <img src="https://github.com/user-attachments/assets/c2aa4b60-2613-4a95-98cf-81c893bd497f" width="200" style="border-radius:8px; margin:8px 0;"/> |
 </br>
 </br>
 
